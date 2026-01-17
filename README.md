@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing my MCA at MIT World Peace University, Pune. I have a good understanding of Java and C++ and enjoy solving problems and building software with clear and structured logic. Through my internships, I have gained hands-on experience in full-stack development, working with technologies such as React, Node.js, Express, MongoDB, and MySQL. I have also worked on website optimization, which helped me understand performance, user experience, and real-world development practices. I am passionate about learning new technologies, improving my coding skills, and applying my knowledge to practical projects.<br><br>Key Highlights:<br>- Good knowledge of Java and C++<br>- Hands-on experience in full-stack development<br>- Worked with React, Node.js, Express, MongoDB, and MySQL<br>- Understanding of backend logic and application flow<br>- Experience in website performance optimization<br>- Familiar with Git and GitHub<br>- Strong interest in learning and skill improvement
+I am currently pursuing my MCA at MIT World Peace University, Pune 🎓. I have a good understanding of Java ☕ and C++ 💻 and enjoy solving problems 🧠 and building software with clear and structured logic. Through my internships, I have gained hands-on experience in full-stack development 🔧, working with technologies such as React ⚛️, Node.js 🌿, Express 🚀, MongoDB 🍃, and MySQL 🗄️. I have also worked on website optimization ⚡, which helped me understand performance, user experience 🎯, and real-world development practices. I am passionate about learning new technologies 📚, improving my coding skills 💡, and applying my knowledge to practical projects 🚀.<br><br>🔑 Key Highlights<br><br>💻 Good knowledge of Java and C++<br>🔧 Hands-on experience in full-stack development<br>⚛️ Worked with React, Node.js, Express, MongoDB, and MySQL<br>🧩 Understanding of backend logic and application flow<br>⚡ Experience in website performance optimization<br>🔗 Familiar with Git and GitHub<br><br>📈 Strong interest in learning and skill improvement
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@ I am currently pursuing my MCA at MIT World Peace University, Pune. I have a goo
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gauravkr09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gauravkr09&icon=0&color=0)](https://visitcount.itsvg.in)
